@@ -1,0 +1,3 @@
+chef, load testing
+Andy and Siddarth -> canoncial set
+ec2->iptables
